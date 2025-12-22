@@ -1,1 +1,1 @@
-This is a folder for notes that need to be processed.
+All new notes start in this folder.
