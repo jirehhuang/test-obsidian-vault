@@ -1,0 +1,1 @@
+This is the "[Someday/Maybe](https://kadavy.net/blog/posts/zettelkasten-method-slip-box-digital-example/)" folder.
