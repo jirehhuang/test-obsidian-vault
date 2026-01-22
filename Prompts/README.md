@@ -1,0 +1,1 @@
+This folder contains prompts to be retrieved via [`Toolset._get_system_prompt()`](https://github.com/jirehhuang/atomictools/blob/ccdc2b73c35d23e8e905aaaf21a8f4bb9d4a4828/atomictools/agent/tools/_toolset.py#L57).
